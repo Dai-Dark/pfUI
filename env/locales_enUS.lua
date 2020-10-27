@@ -2162,7 +2162,7 @@ pfUI_locale["enUS"]["debuffs"] = {
   ['Shadow Protection ']={[0]=3600.0,},
   ['Shadow Vulnerability']={[0]=15.0,},
   ['Shadow Weakness']={[0]=45.0,},
-  ['Shadow Word: Pain']={[0]=18.0,},
+  ['Shadow Word: Pain']={[0]=24.0,},
   ['Shadow of Ebonroc']={[0]=8.0,},
   ['Shadowburn']={[0]=5.0,},
   ['Shadowstalker Slash']={[0]=5.0,},
